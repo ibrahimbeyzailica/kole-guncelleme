@@ -1,0 +1,59 @@
+{
+  "v": 1,
+  "surum": 1795698491,
+  "tarih": "2026-11-26",
+  "not": "İlk sürüm",
+  "dosyalar": [
+    {
+      "ad": "app.bin",
+      "boyut": 783569,
+      "ozet": "f07694d2863bbd1c2e8ed45a680656c232c2e17eca3dc5419d724bd557aec5a7"
+    },
+    {
+      "ad": "main.cjs",
+      "boyut": 21207,
+      "ozet": "5212305d17cf8f699e7ed7c2fcb41b720d470945d8c5e3b62e6abe9783fa2aff"
+    },
+    {
+      "ad": "preload.cjs",
+      "boyut": 3779,
+      "ozet": "cf721915710428a328a601512f9bba6e58649b180c178f86a53c0ab6ce0ce5ff"
+    },
+    {
+      "ad": "kasa.cjs",
+      "boyut": 5304,
+      "ozet": "eef924ffd9810e26f69a1f6f5ef12f1877145b1765b9070d47f8c2c22b268e82"
+    },
+    {
+      "ad": "lisans.cjs",
+      "boyut": 8096,
+      "ozet": "e58c8e0785cfb7ed90bb75e68c4d1edf94b0c70f31a72feda455aa060b2e777b"
+    },
+    {
+      "ad": "lisans-kipi.cjs",
+      "boyut": 10148,
+      "ozet": "aca27105db38d0926684f540e297d0b5dfb365b77efa29b8a43d7586e4cb30fd"
+    },
+    {
+      "ad": "guncelle.cjs",
+      "boyut": 9366,
+      "ozet": "4d29ee1aa8799c6309a093d61877d9a10094f5f0db6028f8715da5db822ec772"
+    },
+    {
+      "ad": "exocad-bul.cjs",
+      "boyut": 8953,
+      "ozet": "ef856fe61beac54b8ce88716f263c14629c68105ca51b373158974369363c45c"
+    },
+    {
+      "ad": "giris.html",
+      "boyut": 4521,
+      "ozet": "5f21892adb0d3deaec7daeac01cbe427a9c372d769185e5303a2e0293a05088d"
+    },
+    {
+      "ad": "lisans.html",
+      "boyut": 6863,
+      "ozet": "9c4f789d6cb3a79e4ceaacc1d4f61ee2b2dbe1a68bd7cfe0191d7bf847b17740"
+    }
+  ],
+  "imza": "fQBhGDG+bkbQUA+4WISIs2sYJQsgkdclK8YgvmA55ydZPfBYD5Vu2nh0Zr+jWGUMFNqNbhFkgS/HxNQ1a0uHCw=="
+}
