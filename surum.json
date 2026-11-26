@@ -1,23 +1,28 @@
 {
   "v": 1,
-  "surum": 1795698547,
+  "surum": 1795704035,
   "tarih": "2026-11-26",
-  "not": "Güncelleme denemesi",
+  "not": "Aktarınca exocad tasarım programı projeyle kendiliğinden açılır; Sorun bildir düğmesi eklendi",
   "dosyalar": [
     {
       "ad": "app.bin",
-      "boyut": 783569,
-      "ozet": "36a5912c32578e9365632430539602f8efba3c7aaa38c18e76de86d8dd3f42e3"
+      "boyut": 786705,
+      "ozet": "85899e0abf20769dab2046e3050a9c8a78795144ad6bd1290ee1e518b3734f45"
+    },
+    {
+      "ad": "sorun-ayar.bin",
+      "boyut": 418,
+      "ozet": "945a1c763dcf13d6ec5c349d920ddd70e82461d1797caac81258cbb578736c51"
     },
     {
       "ad": "main.cjs",
-      "boyut": 21207,
-      "ozet": "5212305d17cf8f699e7ed7c2fcb41b720d470945d8c5e3b62e6abe9783fa2aff"
+      "boyut": 23120,
+      "ozet": "31d88739270524b186a760f3c97483ca8008edd98c5910009d6e9424cba470f5"
     },
     {
       "ad": "preload.cjs",
-      "boyut": 3779,
-      "ozet": "cf721915710428a328a601512f9bba6e58649b180c178f86a53c0ab6ce0ce5ff"
+      "boyut": 4326,
+      "ozet": "ee2639dafaccb68c887e9446735fd55841807d4ebed8c89b26baf1e4467923bb"
     },
     {
       "ad": "kasa.cjs",
@@ -26,23 +31,33 @@
     },
     {
       "ad": "lisans.cjs",
-      "boyut": 8096,
-      "ozet": "e58c8e0785cfb7ed90bb75e68c4d1edf94b0c70f31a72feda455aa060b2e777b"
+      "boyut": 8271,
+      "ozet": "8eecb0ce6792189ad224b436f8ce0372a4e6e68c4704984183b019eff6f9acf4"
     },
     {
       "ad": "lisans-kipi.cjs",
-      "boyut": 10148,
-      "ozet": "aca27105db38d0926684f540e297d0b5dfb365b77efa29b8a43d7586e4cb30fd"
+      "boyut": 13396,
+      "ozet": "36394dd8062fb37d281a09f15a3104b8c8276aaeec4643fed5aa3297a4123742"
     },
     {
       "ad": "guncelle.cjs",
-      "boyut": 9366,
-      "ozet": "4d29ee1aa8799c6309a093d61877d9a10094f5f0db6028f8715da5db822ec772"
+      "boyut": 9578,
+      "ozet": "a9b8d5d683c2f9c97f88541491cad5230bb47bd6e04fb06cd8b73e5a1fdb9b07"
+    },
+    {
+      "ad": "sorun.cjs",
+      "boyut": 6487,
+      "ozet": "30850352f534db1bc5e57bc79352b5e182dd3e7d487eeca1eb17b9d93d5d70bf"
+    },
+    {
+      "ad": "sorun-git.cjs",
+      "boyut": 8671,
+      "ozet": "794eb1a324e8ae44e655c73fe10df9ebb904f2770c9c5e67a55e96111167de87"
     },
     {
       "ad": "exocad-bul.cjs",
-      "boyut": 8953,
-      "ozet": "ef856fe61beac54b8ce88716f263c14629c68105ca51b373158974369363c45c"
+      "boyut": 11363,
+      "ozet": "877d433a0f5cb0bdf7c1a5acfcd7a783357e95d6a8074f2a5807fae93e151b2f"
     },
     {
       "ad": "giris.html",
@@ -51,9 +66,9 @@
     },
     {
       "ad": "lisans.html",
-      "boyut": 6863,
-      "ozet": "9c4f789d6cb3a79e4ceaacc1d4f61ee2b2dbe1a68bd7cfe0191d7bf847b17740"
+      "boyut": 6980,
+      "ozet": "c54ebed6199d2896f23954dd4414f04a6798c3fb3e78baa63175725f1032cff8"
     }
   ],
-  "imza": "eRdfQQQJJQvYYtq2iePt++JL/91Byr9Kks/mVEv+AreXQqShRlNsOuOMp770cbLLtc3M24cofZBy3o5q1iOtDA=="
+  "imza": "XVmAIH0aJJQMjT/CqmmDErvslC40JXBmCVE1Ha/wVBl8bjfVFHXuEPi1uAao4JTWY/jXdhkYSnVXd7oHibaiAQ=="
 }
