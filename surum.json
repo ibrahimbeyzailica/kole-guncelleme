@@ -1,13 +1,13 @@
 {
   "v": 1,
-  "surum": 1795698491,
+  "surum": 1795698547,
   "tarih": "2026-11-26",
-  "not": "İlk sürüm",
+  "not": "Güncelleme denemesi",
   "dosyalar": [
     {
       "ad": "app.bin",
       "boyut": 783569,
-      "ozet": "f07694d2863bbd1c2e8ed45a680656c232c2e17eca3dc5419d724bd557aec5a7"
+      "ozet": "36a5912c32578e9365632430539602f8efba3c7aaa38c18e76de86d8dd3f42e3"
     },
     {
       "ad": "main.cjs",
@@ -55,5 +55,5 @@
       "ozet": "9c4f789d6cb3a79e4ceaacc1d4f61ee2b2dbe1a68bd7cfe0191d7bf847b17740"
     }
   ],
-  "imza": "fQBhGDG+bkbQUA+4WISIs2sYJQsgkdclK8YgvmA55ydZPfBYD5Vu2nh0Zr+jWGUMFNqNbhFkgS/HxNQ1a0uHCw=="
+  "imza": "eRdfQQQJJQvYYtq2iePt++JL/91Byr9Kks/mVEv+AreXQqShRlNsOuOMp770cbLLtc3M24cofZBy3o5q1iOtDA=="
 }
