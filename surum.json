@@ -1,18 +1,18 @@
 {
   "v": 1,
-  "surum": 1795704035,
-  "tarih": "2026-11-26",
-  "not": "Aktarınca exocad tasarım programı projeyle kendiliğinden açılır; Sorun bildir düğmesi eklendi",
+  "surum": 1795803142,
+  "tarih": "2026-11-27",
+  "not": "Düz duvardan başla: kolenin başladığı çizgi köşesiz, oval döner; ağ düzenleme aletleri (Parça sil, Yüzey sil, Delik doldur, Köprü); Diş çek; Diş çevresini düzelt ve Koleyi ütüle; görünümü tekerlek tuşu kaydırır",
   "dosyalar": [
     {
       "ad": "app.bin",
-      "boyut": 786705,
-      "ozet": "85899e0abf20769dab2046e3050a9c8a78795144ad6bd1290ee1e518b3734f45"
+      "boyut": 811624,
+      "ozet": "d42f8213ddc00500a1fd7fbb6c476214152e57d819a4fd445142ba46812292db"
     },
     {
       "ad": "sorun-ayar.bin",
       "boyut": 418,
-      "ozet": "945a1c763dcf13d6ec5c349d920ddd70e82461d1797caac81258cbb578736c51"
+      "ozet": "e5a46183f79c62c6e6fd138d13f6cc181bf1cd8626cdebdadec8f1d977052780"
     },
     {
       "ad": "main.cjs",
@@ -70,5 +70,5 @@
       "ozet": "c54ebed6199d2896f23954dd4414f04a6798c3fb3e78baa63175725f1032cff8"
     }
   ],
-  "imza": "XVmAIH0aJJQMjT/CqmmDErvslC40JXBmCVE1Ha/wVBl8bjfVFHXuEPi1uAao4JTWY/jXdhkYSnVXd7oHibaiAQ=="
+  "imza": "mzzDasznrmG2JPz0FXhOGQafMd7Noz5wSHrGcYo0s56GuByPEMESlB5+LppJbeTfd9HGP7LWmuEhLeuQxHYRBg=="
 }
